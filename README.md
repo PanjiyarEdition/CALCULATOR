@@ -7,4 +7,4 @@ FUNCTION OF THIS CALCULATOR
 3. MULTIPLICATION 
 4. DIVIDE**
  <BR>
- DEMO LINK : **https://panjiyaredition.github.io/CALCULATOR/**
+ DEMO LINK : https://panjiyaredition.github.io/CALCULATOR/
